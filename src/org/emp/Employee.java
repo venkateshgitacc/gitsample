@@ -22,6 +22,9 @@ System.out.println(" address is pozhichalur");
 public void empdetails() {
 System.out.println("employee details is");
 }
+public void empfamily() {
+System.out.println("employee family");
+}
 public static void main(String[] args) {
 	Employee s = new Employee();
 	s.empId();
