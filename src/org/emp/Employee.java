@@ -19,9 +19,6 @@ System.out.println("Email is venkeyraina217@gmail.com");
 public void empAddress() {
 System.out.println(" address is pozhichalur");
 }
-public void empdetails() {
-System.out.println("employee details is");
-}
 public void empfamily() {
 System.out.println("employee family");
 }
